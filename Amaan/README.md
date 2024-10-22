@@ -42,7 +42,7 @@ Datasets and log files for my run:
 
 - There are some directories that were too large to push to Github, you can download these from [Drive](https://drive.google.com/drive/folders/1jgoGpm-_scVGyIvhYJLir3uERrHkdh43?usp=sharing).
 
-- Download all zip and tarball files from Drive and uncompress them into the main working directory (named Amaan for my repository).
+- Download all zip and tarball files from Drive and uncompress them into the main working directory (named Reproducibility for my repository).
 
 Some of the files/folders on this link are present in my directories as well, they are named in the format <'file'>_original for e.g **ground_data_original**.
 
