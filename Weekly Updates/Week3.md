@@ -76,6 +76,23 @@ Minor discrepencies within the results, specifically for True Negatives and Fals
 
 Minor discrepencies within the results, specifically for True Negatives and False Positives. Exact reproduction of results for True Positives and False Negatives, and associated rates.
 
+---
+
+### **List of Issues**
+
+-- Environment Setup
+    - Outdated environment required virtual environments and then use of conda.
+
+-- Dependencies
+    - No requirements.txt with required libraries mentioned.
+    - matplotlib, scikit-learn examples.
+
+-- UDataset Ground Truth not available.
+    - UDataset consists of attacks locally/manually executed, the ground truth for these was not defined clearly.
+
+-- No clear instructions or scripts for evaluating UDatasets.
+
+-- No mention of anomaly detection code or results as mentioned in paper.
 
 
 ---
