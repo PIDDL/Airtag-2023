@@ -6,7 +6,7 @@ My work repository: https://github.com/amaana259/Airtag-2023/tree/main
 
 ### **Requirements**
 
-- *python* 3.6.15
+- *python* 3.6
 
 - *tensorflow* 1.11.0
 
@@ -25,7 +25,7 @@ Other related packages may be required, please install them accordingly. For gra
 
 - conda config --set channel_priority flexible
 
-- conda create -n py36_env python=3.6.15 tensorflow-gpu=1.11.0 cudatoolkit=9.0
+- conda create -n py36_env python=3.6.3 tensorflow-gpu=1.11.0 cudatoolkit=9.0
 
 - conda activate py36_env
 
