@@ -77,7 +77,7 @@ Main repository: https://github.com/amaana259/Airtag/tree/main
 
 - **S1 Log Results**:
 
-<img src="images_md/s1_res.png" alt="My Local Image" width="700">
+<img src="../Reproducibility/images_md/s1_res.png" alt="My Local Image" width="700">
 
 Minor discrepencies within the results.
 
@@ -85,7 +85,7 @@ Minor discrepencies within the results.
 
 - **S2 Log Results**:
 
-<img src="images_md/s2_res.png" alt="My Local Image" width="700">
+<img src="../Reproducibility/images_md/s2_res.png" alt="My Local Image" width="700">
 
 Minor discrepencies within the results.
 
@@ -93,7 +93,7 @@ Minor discrepencies within the results.
 
 - **S3 Log Results**:
 
-<img src="images_md/s3_res.png" alt="My Local Image" width="700">
+<img src="../Reproducibility/images_md/s3_res.png" alt="My Local Image" width="700">
 
 Minor discrepencies within the results. TPR higher in my run.
 
@@ -101,7 +101,7 @@ Minor discrepencies within the results. TPR higher in my run.
 
 - **S4 Log Results**:
 
-<img src="images_md/s4_res.png" alt="My Local Image" width="700">
+<img src="../Reproducibility/images_md/s4_res.png" alt="My Local Image" width="700">
 
 Minor discrepencies within the results.
 
