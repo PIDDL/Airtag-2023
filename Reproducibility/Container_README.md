@@ -4,8 +4,6 @@ This repository contains a Docker setup for the **AirTag Project**, which includ
 
 ## Prerequisites
 
-To use this Docker setup, you'll need to have the following installed:
-
 - **Docker**: Docker must be installed and running on your machine. You can download Docker from the official website: [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 ## Getting Started
