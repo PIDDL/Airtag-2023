@@ -20,7 +20,8 @@ flag=int(args.flag)
 nu_=float(args.nu)
 gama_=float(args.gama)
 suffix=args.suffix+"/" # Exp comes here via args
-path=['training_preprocessed_logs_S1-CVE-2015-5122_windows','training_preprocessed_logs_S2-CVE-2015-3105_windows','testing_preprocessed_logs_S3-CVE-2017-11882_windows','training_preprocessed_logs_S4-CVE-2017-0199_windows_py']
+# path=['training_preprocessed_logs_S1-CVE-2015-5122_windows','training_preprocessed_logs_S2-CVE-2015-3105_windows','testing_preprocessed_logs_S3-CVE-2017-11882_windows','training_preprocessed_logs_S4-CVE-2017-0199_windows_py']
+path=['training_preprocessed_logs_S1-CVE-2015-5122_windows','training_preprocessed_logs_S2-CVE-2015-3105_windows','training_preprocessed_logs_S3-CVE-2017-11882_windows','training_preprocessed_logs_S4-CVE-2017-0199_windows_py']
 f=open("/home/tpiuser2/prov_project/amaan/embedding_data/"+suffix+"S"+str(flag)+"_benign.json")
 number_list=['S1_number_.npy','S2_number_.npy','S3_number_.npy','S4_number_.npy']
 
